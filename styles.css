@@ -248,7 +248,7 @@ body {
     color: white;
     line-height: 1;
     margin-bottom: 1.875em;
-    margin-top: -2em;
+    margin-top: 2em;
     
 }
 
@@ -688,7 +688,7 @@ body {
     50% { transform: translateY(-1.875em) translateX(1.25em); opacity: 0.6; }
 }
 
-@media (max-width: 1027px), (max-height: 870px) {
+@media (max-width: 1027px), (max-height: 780px) {
     .desktop-nav {
         display: none;
     }
